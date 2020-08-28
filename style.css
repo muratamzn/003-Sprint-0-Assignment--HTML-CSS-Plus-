@@ -1,0 +1,27 @@
+body {
+    font-family:comic-sns ;
+    font-size: 1rem;
+    box-align:center;
+    font-weight: 200;
+    color: var(--color-white);
+    position:center;
+  }
+  .font {
+    font-size: 140%;
+  }
+  h1 {
+    font-weight: 400;
+    color:whiteblue;
+    font-size:75px;
+    line-height: 1.2;
+  }
+  
+  label {
+    align-items: center;
+    font-size: 1rem;
+    margin-top: 2px;
+    margin-bottom: -10px;
+  }
+  p {
+    font-size: 1.5rem;
+  }
